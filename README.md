@@ -1,2 +1,2 @@
-# Day-Night
-https://olga-holodtsova.github.io/Day-Night/
+# day-night
+https://olga-holodtsova.github.io/day-night/
